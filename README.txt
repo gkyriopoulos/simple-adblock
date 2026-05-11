@@ -1,6 +1,3 @@
-Name: Georgios Kyriopoulos
-AM: 2019030017
-
 This script is a basic adblock. It can be executed using the following flags(sudo is required):
 -domains: Is used to fill the IPAddressesSame.txt and IPAddressesDifferent.txt with the appropriate IPs.
 -ipssame: Configures the DROP rule based on the IPs inside IPAddressesSame.txt.
